@@ -242,8 +242,8 @@ with gr.Blocks(
     title="☕ Coffee Brewing Mini-Game",
     theme=gr.themes.Soft(
         primary_hue="orange",
-        secondary_hue="brown",
-        neutral_hue="stone",
+        secondary_hue="red",
+        neutral_hue="gray",
         font=["Georgia", "serif"],
     ),
     css=CSS,
